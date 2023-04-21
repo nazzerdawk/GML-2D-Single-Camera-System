@@ -11,6 +11,14 @@
 	
 	To adjust the behavior of the camera, the Properties struct inside of camera_init() contains the variables for the aspect ratio, the default zoom level, etc. 
 	Important: replace  obj_character in the properties struct with the actual object you want the camera to follow. 
+	
+	
+	!!!IMPORTANT!!! !!!IMPORTANT!!! !!!IMPORTANT!!!
+	
+	This requires GMS2. I specifically used GameMaker LTS v2022.0.1.30, but it should probably work with pretty much all versions of GMS2/GameMaker
+	beyond Game Maker Studio 1. 
+	
+	!!!IMPORTANT!!! !!!IMPORTANT!!! !!!IMPORTANT!!!
 */
 
 
