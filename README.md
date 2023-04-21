@@ -4,7 +4,8 @@ A single-camera implementation for Game Maker Studio 2. Fully self-contained in 
 
 
 Hello! This is a camera system I refined from a tutorial from PixelatedPope on Youtube. 
-GMS2 Cameras: As Simple as Possible / https://www.youtube.com/watch?v=_g1LQ6aIJFk)  
+[GMS2 Cameras: As Simple as Possible](https://www.youtube.com/watch?v=_g1LQ6aIJFk)  
+
 I wanted a camera object that was easy to import into other projects with minimal setup, and I wanted it to support zooming in/out,
 easy customization, and fewer "magic numbers" littering the code (Fine for a tutorial, less so for something I want to reuse).
 
