@@ -119,3 +119,4 @@ function enable_view(){
 
 
 camera_init();
+enable_view();
